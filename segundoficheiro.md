@@ -1,0 +1,1 @@
+Este é o segundo ficheiro relativo ao teste do uso git
